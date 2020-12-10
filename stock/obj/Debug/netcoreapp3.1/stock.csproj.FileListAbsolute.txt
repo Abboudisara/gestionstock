@@ -1,0 +1,13 @@
+C:\Users\Youcode\Desktop\gestionstock\stock\bin\Debug\netcoreapp3.1\stock.exe
+C:\Users\Youcode\Desktop\gestionstock\stock\bin\Debug\netcoreapp3.1\stock.deps.json
+C:\Users\Youcode\Desktop\gestionstock\stock\bin\Debug\netcoreapp3.1\stock.runtimeconfig.json
+C:\Users\Youcode\Desktop\gestionstock\stock\bin\Debug\netcoreapp3.1\stock.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\gestionstock\stock\bin\Debug\netcoreapp3.1\stock.dll
+C:\Users\Youcode\Desktop\gestionstock\stock\bin\Debug\netcoreapp3.1\stock.pdb
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.dll
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.pdb
+C:\Users\Youcode\Desktop\gestionstock\stock\obj\Debug\netcoreapp3.1\stock.genruntimeconfig.cache
