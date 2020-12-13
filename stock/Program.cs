@@ -33,11 +33,11 @@ namespace stock
 
               
              
-              /* Console.WriteLine("tu peux supprimer une Article"); //pour supprission d'une article
+               Console.WriteLine("tu peux supprimer une Article"); //pour supprission d'une article
                string nom= Console.ReadLine();
-               produit.Delete(nom);*/
+               produit.Delete(nom);
 
-                produit.modification(111, "camion", 700, 900);
+                produit.modification(111, "camion", 700, 900); //modification dune article
                 produit.Affichage();
 
 

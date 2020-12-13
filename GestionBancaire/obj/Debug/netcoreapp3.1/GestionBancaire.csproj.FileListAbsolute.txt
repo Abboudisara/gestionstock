@@ -1,0 +1,13 @@
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\bin\Debug\netcoreapp3.1\GestionBancaire.exe
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\bin\Debug\netcoreapp3.1\GestionBancaire.deps.json
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\bin\Debug\netcoreapp3.1\GestionBancaire.runtimeconfig.json
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\bin\Debug\netcoreapp3.1\GestionBancaire.runtimeconfig.dev.json
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\bin\Debug\netcoreapp3.1\GestionBancaire.dll
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\bin\Debug\netcoreapp3.1\GestionBancaire.pdb
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.dll
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.pdb
+C:\Users\Youcode\Desktop\gestionstock\GestionBancaire\obj\Debug\netcoreapp3.1\GestionBancaire.genruntimeconfig.cache
